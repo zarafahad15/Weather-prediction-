@@ -1,0 +1,1 @@
+MinTemp, MaxTemp, Rainfall, Humidity9am, Humidity3pm, Temp3pm
